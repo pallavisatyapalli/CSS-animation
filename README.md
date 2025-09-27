@@ -57,10 +57,4 @@ project/
 
 ---
 
-## Screenshots
-
-![Sample Screenshot](images\screenshot.png)
-*Dragons rotates.*
-
----
 
