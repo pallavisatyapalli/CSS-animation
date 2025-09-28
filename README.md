@@ -1,8 +1,8 @@
-# 3D Rotating Dragon Carousel with Centered Model
+# 3D Rotating Dragon Carousel 
 
 ## Overview
 
-This project showcases a **3D rotating carousel of dragon images** with a **centered model image** behind it. It is built with **HTML and CSS**, featuring **CSS variables, keyframe animations, and 3D transforms**. The carousel rotates infinitely around the model, creating an engaging visual effect.
+This project showcases a **3D rotating carousel of dragon images**. It is built with **HTML and CSS**, featuring **CSS variables, keyframe animations, and 3D transforms**. The carousel rotates infinitely creating an engaging visual effect.
 
 ---
 
@@ -25,7 +25,6 @@ project/
 │   ├── dragon1.jpeg
 │   ├── dragon2.jpeg
 │   ├── ...             # Dragon images 1-10
-│   └── model.jpeg      # Centered model image
 └── README.md           # Project description
 ```
 
@@ -36,7 +35,7 @@ project/
 1. Clone or download the repository.
 2. Make sure all images are placed in the `images/` folder.
 3. Open `index.html` in a modern browser (Chrome, Firefox, Edge, Safari).
-4. Watch the carousel rotate around the centered model.
+4. Watch the carousel rotate.
 
 ---
 
